@@ -1,0 +1,11 @@
+Personal Details :
+
+Name: Priya Hemant Khadsare.
+2020BIT066
+2020bit066@sggs.ac.in
+Mini project:Sign Language Detection
+Theme: It is the project which implemented in machine learning algorithms
+and using python using dataset from kaggle.
+Goals: Implement the knowledge in better way 
+subject : oops dbms sql networking
+          full stack development 

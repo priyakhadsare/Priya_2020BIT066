@@ -1,0 +1,17 @@
+SQL queries.indictrans
+
+11) SELECT * FROM Customer WHERE placed at least one ORDER;
+
+12) SELECT *FROM Order WHERE AVG(Order) FROM Customer;
+
+13) UPDATE table Customer,
+     WHERE SET city = ("Delhi", "Mumbai");
+
+14) DELETE records FROM Logs WHERE
+      records > 1 Year;
+
+15) SELECT * FROM Employee
+     WHERE  max(Salary);
+
+16)SELECT FROM Customer 
+    WHERE max(order) FROM order;
